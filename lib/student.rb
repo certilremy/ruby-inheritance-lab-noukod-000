@@ -10,6 +10,6 @@ def learn(string)
 end
 
 def knowledge
-  @knowledge  
+  @knowledge
 end
 end
