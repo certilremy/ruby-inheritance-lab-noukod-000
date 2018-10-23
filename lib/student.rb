@@ -6,8 +6,6 @@ def initialize
 end
 
 def learn(string)
-  string = "..."
-
-@knowledge<string
+@knowledge<<string
 end
 end
